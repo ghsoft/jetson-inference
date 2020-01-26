@@ -18,3 +18,6 @@
 	path = python/training/segmentation
 	url = https://github.com/dusty-nv/pytorch-segmentation
 	branch = master
+[submodule "jetson-utils"]
+	path = jetson-utils
+	url = git@github.com:ghsoft/jetson-utils.git
